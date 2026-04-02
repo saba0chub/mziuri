@@ -1,0 +1,80 @@
+.title{
+    text-align: center;
+
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+.trust{
+    width: 300px;
+    height: 400px;
+    border: solid black;
+    background-color: red;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.gamelink{
+    width: 100px;
+    height: 55px;
+    border: solid black;
+    text-align: center;
+    margin-top: -400px;
+    margin-left: 900px;
+    background-color: blue;
+
+}
+
+.gl{
+    color: black;
+
+}
+
+.gl a{
+    text-decoration: none;
+}
+
+
+
+.movielink{
+    width: 200px;
+    height: 60px;
+    border: solid black;
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 850px;
+    background-color: yellow;
+}
+
+.ml{
+    color: black;
+
+}
+.ml a{
+    text-decoration: none;
+}
+
+
+.people{
+    width: 400px;
+    height: 200px;
+    border: solid black;
+    text-align: center;
+    margin-top: -400px;
+    margin-left: 1300px;
+    background-color: cyan;
+}
+
+
+.rules{
+    width: 400px;
+    height: 300px;
+    border: solid black;
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 1300px;
+    background-color: cyan;
+}
+
